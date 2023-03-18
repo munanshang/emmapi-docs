@@ -1,0 +1,12 @@
+{
+  "name": "emmapi.docs",
+  "version": "1.0.0",
+  "description": "emmapi.docs",
+  "main": "index.js",
+  "repository": "https://github.com/munanshang/emmapi-docs",
+  "author": "munanshang",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
